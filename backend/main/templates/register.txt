@@ -1,3 +1,5 @@
 Bienvenido {{ usuario.nombre }} {{ usuario.apellido }}
 
 Gracias por registrarse en Caomercio Curso App!
+
+Saludos Cordiales.
